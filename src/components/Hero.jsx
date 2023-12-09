@@ -12,7 +12,7 @@ export default function Hero() {
 
             {/* <!-- Jumbotron --> */}
             <div style={{
-                backgroundImage: 'url(./three.jpg)',
+                backgroundImage: 'url(./hero2.jpg)',
                 backgroundPosition: 'center',
                 backgroundSize: 'cover',
                 backgroundAttachment: 'fixed'
