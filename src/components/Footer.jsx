@@ -4,13 +4,15 @@ export default function Footer() {
     return (
 
 
-        <footer class="bg-white dark:bg-gray-900">
+        <footer class="bg-gray-200 dark:bg-gray-900">
             <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
                 <div class="md:flex md:justify-between">
                     <div class="mb-6 md:mb-0">
                         <a href="#" class="flex items-center">
-                            <span class="self-center text-2xl font-bold whitespace-nowrap dark:text-white">
-                                <img className='w-24' src="./logo.jpg" alt="" srcset="" />
+                            <span class="self-center text-2xl whitespace-nowrap dark:text-white font-extrabold">
+
+                                Zanzibar Guides
+
                             </span>
                         </a>
                     </div>
