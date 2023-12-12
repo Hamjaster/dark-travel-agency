@@ -9,7 +9,7 @@ import Head from 'next/head'
 
 export default function Home() {
   return (
-    <div className='bg-white'>
+    <div className='bg-black text-white'>
       <Head>
         <title>Zanzibar tourist </title>
       </Head>
